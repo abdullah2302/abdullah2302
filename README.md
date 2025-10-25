@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 
 <!-- Typing Animation -->
+<a href="https://github.com/abdullah2302/abdullah2302"><a/>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF6F61&center=true&vCenter=true&width=600&lines=Frontend+Developer;ReactJS+Enthusiast;Tailwind+CSS+Lover;Passionate+About+UI%2FUX;Always+Learning+New+Things" alt="Typing Animation" />
  
