@@ -5,7 +5,7 @@
 <!-- Typing Animation -->
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF6F61&center=true&vCenter=true&width=600&lines=Frontend+Developer;ReactJS+Enthusiast;Tailwind+CSS+Lover;Passionate+About+UI%2FUX;Always+Learning+New+Things" alt="Typing Animation" />
-  </a>
+ 
 </p>
 
 ---
