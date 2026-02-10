@@ -12,7 +12,7 @@
 ---
 
 ## 🌟 About Me  
-- 💻 I’m a **Frontend ReactJS Developer** with strong skills in **HTML, CSS, JavaScript, ReactJS, and TailwindCSS**  
+- 💻 I’m a **MERN Stack Developer** with strong skills in **MongoDB, ExpressJS, ReactJS, and NodeJS**  
 - 🎨 I love creating **modern, responsive, and user-friendly interfaces**  
 - 🌱 Currently learning **Next.js** and improving my **design-to-code workflow**  
 - ⚡ Also comfortable working with **basic backend & databases** (Node.js, Express, MongoDB, MySQL) when needed  
