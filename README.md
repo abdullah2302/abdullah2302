@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=FF6F61&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;React+JS+Developer;Passionate+About+UI%2FUX;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=FF6F61&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Manual+SQA+Engineer;React+JS+Developer;Passionate+About+UI%2FUX;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
