@@ -15,6 +15,7 @@
 # 👨‍💻 About Me
 
 - 💻 **MERN Stack Developer**
+- 💻 **Manual SQA Engineer**
 - 🚀 Skilled in **MongoDB, Express.js, React.js, Node.js**
 - 🎨 Love building **modern, responsive, and clean UI**
 - 🌱 Currently learning **Next.js & Advanced React**
