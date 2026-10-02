@@ -1,128 +1,130 @@
-<!-- ================= HEADER ================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Abdullah&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=MERN%20Stack%20Developer%20%7C%20Manual%20SQA%20Engineer&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=ABDULLAH&fontSize=80&fontColor=00f5d4&stroke=ff6f61&strokeWidth=2&animation=twinkling&desc=%E3%80%8C%20MERN%20Developer%20%C3%97%20SQA%20Engineer%20%C3%97%20UI%20Enthusiast%20%E3%80%8D&descSize=20&descAlignY=72&descColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=FF6F61&center=true&vCenter=true&width=700&lines=Building+modern+web+apps+with+MERN;Breaking+things+so+users+never+do+%F0%9F%90%9B;Turning+Figma+designs+into+pixel-perfect+UI;Currently+leveling+up+with+Next.js+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=720&height=50&lines=%3E+whoami+%E2%86%92+Abdullah;%3E+building+%E2%86%92+modern+web+apps;%3E+testing+%E2%86%92+everything+that+moves;%3E+learning+%E2%86%92+Next.js+%26+Advanced+React" alt="typing"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=abdullah2302&label=Profile%20Views&color=ff6f61&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/abdullah2302?style=for-the-badge&color=ff6f61&logo=github" alt="followers"/>
+<a href="#-about"><img src="https://img.shields.io/badge/ABOUT-302b63?style=for-the-badge"/></a>
+<a href="#-skills"><img src="https://img.shields.io/badge/SKILLS-302b63?style=for-the-badge"/></a>
+<a href="#-stats"><img src="https://img.shields.io/badge/STATS-302b63?style=for-the-badge"/></a>
+<a href="#-roadmap"><img src="https://img.shields.io/badge/ROADMAP-302b63?style=for-the-badge"/></a>
+<a href="#-contact"><img src="https://img.shields.io/badge/CONTACT-302b63?style=for-the-badge"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=abdullah2302&label=VISITORS&color=00f5d4&style=flat-square&labelColor=24243e"/>
+<img src="https://img.shields.io/github/followers/abdullah2302?label=FOLLOWERS&style=flat-square&color=ff6f61&labelColor=24243e"/>
+<img src="https://img.shields.io/github/stars/abdullah2302?label=STARS&style=flat-square&color=f9c74f&labelColor=24243e"/>
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
-
-```js
-const abdullah = {
-  role: ["MERN Stack Developer", "Manual SQA Engineer"],
-  location: "Lahore, Pakistan 🇵🇰",
-  stack: ["MongoDB", "Express", "React", "Node.js"],
-  currentlyLearning: ["Next.js", "Advanced React Patterns", "Full Stack Architecture"],
-  funFact: "I enjoy turning complex UI designs into responsive web apps",
-  lookingFor: "Exciting projects & collaborations 🤝",
-};
-```
+## ✦ About
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%" valign="top">
 
-### 🚀 What I Do
-- 🎨 Build clean, responsive, modern UIs
-- ⚙️ Develop full-stack apps end to end
-- 🧪 Test, break & polish software as an SQA
-- 🔗 Design and consume REST APIs
+```ansi
+┌──────────────────────────────────────┐
+│  ● ● ●            abdullah@dev:~     │
+├──────────────────────────────────────┤
+│ $ cat profile.json                   │
+│ {                                    │
+│   "name":    "Abdullah",             │
+│   "roles":   ["MERN Dev", "SQA"],    │
+│   "stack":   "MongoDB · Express ·    │
+│               React · Node",         │
+│   "ui":      "clean & responsive",   │
+│   "learning":"Next.js ⚡",           │
+│   "status":  "open to collab 🤝"     │
+│ }                                    │
+│ $ _                                  │
+└──────────────────────────────────────┘
+```
 
 </td>
-<td width="50%">
+<td width="45%" valign="top">
 
-### 🌱 Growing Into
-- ⚡ Next.js & server-side rendering
-- 🧩 Advanced React patterns
-- 🏗️ Scalable app architecture
-- 🤖 AI/ML & computer vision
+#### 🔥 Quick Facts
+🎨 Love turning **Figma → pixel-perfect UI**<br/>
+🧪 Break software as an **SQA**, build it as a **dev**<br/>
+⚡ Currently diving into **Next.js**<br/>
+🧩 Mastering **Advanced React patterns**<br/>
+🏗️ Exploring **full-stack architecture**
 
 </td>
 </tr>
 </table>
 
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-| Layer | Technologies |
-|:-----:|:-------------|
-| 🎨 **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| ⚙️ **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 🗄️ **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| 🧰 **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=abdullah2302&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah2302&layout=compact&theme=tokyonight&hide_border=true" />
-
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=abdullah2302&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=abdullah2302&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
-<details>
-<summary>📈 <b>Contribution Graph</b></summary>
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah2302&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</details>
-
----
-
-## 🎯 Currently Learning
+## ✦ Skills
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-⚡_In_Progress-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/Advanced_React-🧩_In_Progress-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Architecture](https://img.shields.io/badge/Full_Stack_Architecture-🏗️_In_Progress-ff6f61?style=for-the-badge)
-
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/abdullah-azhar23/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:abdullahrajpoot8776@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://portfolio23-three-liart.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,python,git,github,vscode,figma&perline=7&theme=dark"/>
 
 <br/><br/>
 
-💡 *"I enjoy turning complex UI designs into responsive web applications."*
+| 🎨 Frontend | ⚙️ Backend | 🗄️ Database | 🧰 Tools |
+|:---:|:---:|:---:|:---:|
+| HTML · CSS · JS | Node.js | MongoDB | Git · GitHub |
+| React · Tailwind | Express.js | MySQL | VS Code · Figma |
+| Responsive UI | REST APIs · Python | Schema Design | Manual SQA Testing |
+
+</div>
 
 <br/>
 
-⭐ Thanks for visiting — drop a star if you liked something! ⭐
+## ✦ Stats
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=abdullah2302&show_icons=true&theme=synthwave&hide_border=true&bg_color=0f0c29&title_color=00f5d4&icon_color=ff6f61&text_color=ffffff"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah2302&layout=donut-vertical&theme=synthwave&hide_border=true&bg_color=0f0c29&title_color=00f5d4&text_color=ffffff"/>
+
+<img src="https://streak-stats.demolab.com?user=abdullah2302&theme=dark&hide_border=true&background=0f0c29&ring=00f5d4&fire=ff6f61&currStreakLabel=00f5d4&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah2302&bg_color=0f0c29&color=00f5d4&line=ff6f61&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=abdullah2302&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+
+</div>
+
+<br/>
+
+## ✦ Roadmap
+
+```mermaid
+timeline
+    title Learning Journey
+    Done    : HTML · CSS · JavaScript
+            : React & Tailwind
+            : Node · Express · MongoDB
+    Now     : Next.js
+            : Advanced React Patterns
+    Next    : Full Stack Architecture
+            : AI/ML & Computer Vision
+```
+
+<br/>
+
+## ✦ Contact
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abdullah-azhar23/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:abdullahrajpoot8776@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://portfolio23-three-liart.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-00f5d4?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+
+<br/><br/>
+
+*"Good UI is invisible. Good testing is invisible. Good code makes both possible."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A6&fontSize=24&fontColor=00f5d4&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
