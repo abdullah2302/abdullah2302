@@ -1,60 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=ABDULLAH&fontSize=80&fontColor=00f5d4&stroke=ff6f61&strokeWidth=2&animation=twinkling&desc=%E3%80%8C%20MERN%20Developer%20%C3%97%20SQA%20Engineer%20%C3%97%20UI%20Enthusiast%20%E3%80%8D&descSize=20&descAlignY=72&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6366f1,100:a855f7&height=200&section=header&text=Abdullah&fontSize=64&fontColor=ffffff&fontAlignY=45&desc=MERN%20Stack%20Developer%20%C2%B7%20Manual%20SQA%20Engineer&descSize=18&descAlignY=68" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=720&height=50&lines=%3E+whoami+%E2%86%92+Abdullah;%3E+building+%E2%86%92+modern+web+apps;%3E+testing+%E2%86%92+everything+that+moves;%3E+learning+%E2%86%92+Next.js+%26+Advanced+React" alt="typing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+clean+%26+responsive+web+apps;Turning+Figma+designs+into+real+products;Testing+software+like+a+user,+building+like+a+dev" alt="typing"/>
 
-<br/><br/>
+<br/>
 
-<a href="#-about"><img src="https://img.shields.io/badge/ABOUT-302b63?style=for-the-badge"/></a>
-<a href="#-skills"><img src="https://img.shields.io/badge/SKILLS-302b63?style=for-the-badge"/></a>
-<a href="#-stats"><img src="https://img.shields.io/badge/STATS-302b63?style=for-the-badge"/></a>
-<a href="#-roadmap"><img src="https://img.shields.io/badge/ROADMAP-302b63?style=for-the-badge"/></a>
-<a href="#-contact"><img src="https://img.shields.io/badge/CONTACT-302b63?style=for-the-badge"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-azhar23/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio23-three-liart.vercel.app)
+[![Email](https://img.shields.io/badge/Email-ec4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahrajpoot8776@gmail.com)
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=abdullah2302&label=VISITORS&color=00f5d4&style=flat-square&labelColor=24243e"/>
-<img src="https://img.shields.io/github/followers/abdullah2302?label=FOLLOWERS&style=flat-square&color=ff6f61&labelColor=24243e"/>
-<img src="https://img.shields.io/github/stars/abdullah2302?label=STARS&style=flat-square&color=f9c74f&labelColor=24243e"/>
+<img src="https://komarev.com/ghpvc/?username=abdullah2302&label=Profile%20Views&color=8b5cf6&style=flat-square"/>
 
 </div>
 
 <br/>
 
-## ✦ About
+## 👋 Hello, I'm Abdullah
+
+I build modern web applications with the **MERN stack** and make sure they work flawlessly as a **Manual SQA Engineer**. I care about clean UI, solid architecture, and details most people never notice.
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-```ansi
-┌──────────────────────────────────────┐
-│  ● ● ●            abdullah@dev:~     │
-├──────────────────────────────────────┤
-│ $ cat profile.json                   │
-│ {                                    │
-│   "name":    "Abdullah",             │
-│   "roles":   ["MERN Dev", "SQA"],    │
-│   "stack":   "MongoDB · Express ·    │
-│               React · Node",         │
-│   "ui":      "clean & responsive",   │
-│   "learning":"Next.js ⚡",           │
-│   "status":  "open to collab 🤝"     │
-│ }                                    │
-│ $ _                                  │
-└──────────────────────────────────────┘
-```
+**🚀 What I do**
+
+- Build full-stack apps with React & Node
+- Design responsive, polished interfaces
+- Test, find bugs, and improve quality
+- Create REST APIs with Express & MongoDB
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-#### 🔥 Quick Facts
-🎨 Love turning **Figma → pixel-perfect UI**<br/>
-🧪 Break software as an **SQA**, build it as a **dev**<br/>
-⚡ Currently diving into **Next.js**<br/>
-🧩 Mastering **Advanced React patterns**<br/>
-🏗️ Exploring **full-stack architecture**
+**🌱 What I'm learning**
+
+- Next.js
+- Advanced React patterns
+- Full-stack application architecture
+- AI/ML and computer vision
 
 </td>
 </tr>
@@ -62,69 +47,48 @@
 
 <br/>
 
-## ✦ Skills
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,python,git,github,vscode,figma&perline=7&theme=dark"/>
-
-<br/><br/>
-
-| 🎨 Frontend | ⚙️ Backend | 🗄️ Database | 🧰 Tools |
-|:---:|:---:|:---:|:---:|
-| HTML · CSS · JS | Node.js | MongoDB | Git · GitHub |
-| React · Tailwind | Express.js | MySQL | VS Code · Figma |
-| Responsive UI | REST APIs · Python | Schema Design | Manual SQA Testing |
+<table>
+<tr>
+<td align="center" width="25%"><b>Frontend</b><br/><br/><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=3"/></td>
+<td align="center" width="25%"><b>Backend</b><br/><br/><img src="https://skillicons.dev/icons?i=nodejs,express,python&perline=3"/></td>
+<td align="center" width="25%"><b>Database</b><br/><br/><img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=3"/></td>
+<td align="center" width="25%"><b>Tools</b><br/><br/><img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=2"/></td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-## ✦ Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=abdullah2302&show_icons=true&theme=synthwave&hide_border=true&bg_color=0f0c29&title_color=00f5d4&icon_color=ff6f61&text_color=ffffff"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah2302&layout=donut-vertical&theme=synthwave&hide_border=true&bg_color=0f0c29&title_color=00f5d4&text_color=ffffff"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdullah2302&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah2302&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
 
-<img src="https://streak-stats.demolab.com?user=abdullah2302&theme=dark&hide_border=true&background=0f0c29&ring=00f5d4&fire=ff6f61&currStreakLabel=00f5d4&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa"/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah2302&bg_color=0f0c29&color=00f5d4&line=ff6f61&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=abdullah2302&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+<img src="https://streak-stats.demolab.com?user=abdullah2302&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
 <br/>
 
-## ✦ Roadmap
+## 🤝 Let's Work Together
 
-```mermaid
-timeline
-    title Learning Journey
-    Done    : HTML · CSS · JavaScript
-            : React & Tailwind
-            : Node · Express · MongoDB
-    Now     : Next.js
-            : Advanced React Patterns
-    Next    : Full Stack Architecture
-            : AI/ML & Computer Vision
-```
-
-<br/>
-
-## ✦ Contact
+I'm open to **freelance projects**, **collaborations**, and **new opportunities**. If you have an idea, let's build it.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abdullah-azhar23/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:abdullahrajpoot8776@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://portfolio23-three-liart.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-00f5d4?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+📫 **abdullahrajpoot8776@gmail.com**
 
-<br/><br/>
+<br/>
 
-*"Good UI is invisible. Good testing is invisible. Good code makes both possible."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A6&fontSize=24&fontColor=00f5d4&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6366f1,100:a855f7&height=100&section=footer" width="100%"/>
 
 </div>
